@@ -1,3 +1,5 @@
 sample content added in test1 after creating Branch1
 
 after Branch1 committed to repository i am adding this line
+
+writing in remote then will pull in locally
